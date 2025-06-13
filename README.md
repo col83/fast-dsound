@@ -32,6 +32,9 @@ Registry modification actions will cause the system to load a program with a dif
 
 Simply put - the system will imitate the actions of the 8th point of the order as the 7th point. As described above.
 
+MORE INFO - https://www.indirectsound.com/registryIssues.html
+
+
 This approach provides the ability to use spatial audio in games that have not fully implemented this feature or have implemented it poorly.
 
-MORE INFO - https://www.indirectsound.com/registryIssues.html
+MORE INFO - https://www.indirectsound.com/
