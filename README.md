@@ -1,4 +1,4 @@
-<h2>EXPLANATION:<h2/>
+<h2>EXPLANATION:</h2>
 
 
 By default, Windows has a specific order for searching (loading) dynamically attached libraries (.dll)
