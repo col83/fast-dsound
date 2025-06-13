@@ -1,3 +1,10 @@
+<h3>BUILD INFO:</h3>
+
+DSOAL - https://github.com/kcat/dsoal/actions/runs/15624259310
+
+openal-soft - https://github.com/kcat/openal-soft/actions/runs/15596634122
+
+
 <h2>EXPLANATION:</h2>
 
 
