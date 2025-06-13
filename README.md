@@ -46,5 +46,5 @@ To load from scripts (in case you need it):
 CD to the desired directory
 
 ```
-curl -fJL -# --ssl-no-revoke -o ".\fnv-dsoal.zip" https://github.com/col83/fast-dsound/archive/refs/heads/master.zip
+curl -fJL -# --ssl-no-revoke -o ".\fast-dsound.zip" https://github.com/col83/fast-dsound/archive/refs/heads/master.zip
 ```
