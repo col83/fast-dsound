@@ -1,9 +1,12 @@
 <h3>BUILD INFO:</h3>
 
-DSOAL - https://github.com/kcat/dsoal/actions/runs/15624259310
+DSOAL (NO HRTF) - https://github.com/kcat/dsoal/actions/runs/15624259310
 
-openal-soft - https://github.com/kcat/openal-soft/actions/runs/15596634122
+soft_oal.dll - https://github.com/kcat/openal-soft/actions/runs/15596634122
 
+openal-info.exe (utils-r9867@b71d4a1) - https://github.com/kcat/openal-soft/releases/tag/utils
+
+<br>
 
 <h2>EXPLANATION:</h2>
 
